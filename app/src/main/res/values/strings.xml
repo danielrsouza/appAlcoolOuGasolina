@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlcoolOuGasolina</string>
+    <string name="texto1">Informe o valor da gasolina</string>
+    <string name="textBtnCalcular">Calcule</string>
+</resources>
